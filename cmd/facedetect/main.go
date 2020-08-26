@@ -19,7 +19,7 @@ import (
 	"image/color"
 	"os"
 
-	"gocv.io/x/gocv"
+	"github.com/silverark/gocv"
 )
 
 func main() {
